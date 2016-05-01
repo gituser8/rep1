@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 #HEADLINE 1
 this line is added in branch1 only
@@ -7,3 +8,8 @@ this line is added in branch1 only
 =======
 # rep1
 >>>>>>> parent of 6f3d38f... Update README.md
+=======
+
+
+123456---
+>>>>>>> master
